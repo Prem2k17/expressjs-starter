@@ -1,0 +1,31 @@
+{
+  "name": "expressjs-starter",
+  "version": "2.0.1",
+  "description": "ExpressJS Starter kit with basic configuration",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prem2k17/expressjs-starter.git"
+  },
+  "keywords": [
+    "Expressjs",
+    "sample",
+    "app",
+    "with",
+    "basic",
+    "configuration",
+    "example"
+  ],
+  "author": "PREMKUMAR M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prem2k17/expressjs-starter/issues"
+  },
+  "homepage": "https://github.com/prem2k17/expressjs-starter#readme",
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
+}
