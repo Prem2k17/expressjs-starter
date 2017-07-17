@@ -1,15 +1,68 @@
 {
-  "name": "expressjs-starter",
-  "version": "2.0.1",
+  "_args": [
+    [
+      {
+        "raw": "expressjs-starter",
+        "scope": null,
+        "escapedName": "expressjs-starter",
+        "name": "expressjs-starter",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "G:\\target"
+    ]
+  ],
+  "_from": "expressjs-starter@latest",
+  "_id": "expressjs-starter@2.0.1",
+  "_inCache": true,
+  "_location": "/expressjs-starter",
+  "_nodeVersion": "4.2.6",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/expressjs-starter-2.0.1.tgz_1498581067616_0.023640801198780537"
+  },
+  "_npmUser": {
+    "name": "prem2k17",
+    "email": "mpremkumardpk@gmail.com"
+  },
+  "_npmVersion": "3.5.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "expressjs-starter",
+    "scope": null,
+    "escapedName": "expressjs-starter",
+    "name": "expressjs-starter",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/expressjs-starter/-/expressjs-starter-2.0.1.tgz",
+  "_shasum": "38b5d1ade46cb370829bb6d3ae8836c962638136",
+  "_shrinkwrap": null,
+  "_spec": "expressjs-starter",
+  "_where": "G:\\target",
+  "author": {
+    "name": "PREMKUMAR M"
+  },
+  "bugs": {
+    "url": "https://github.com/prem2k17/expressjs-starter/issues"
+  },
+  "dependencies": {},
   "description": "ExpressJS Starter kit with basic configuration",
-  "main": "server.js",
-  "scripts": {
-    "test": "test"
+  "devDependencies": {
+    "express": "^4.15.3"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Prem2k17/expressjs-starter.git"
+  "directories": {},
+  "dist": {
+    "shasum": "38b5d1ade46cb370829bb6d3ae8836c962638136",
+    "tarball": "https://registry.npmjs.org/expressjs-starter/-/expressjs-starter-2.0.1.tgz"
   },
+  "gitHead": "c3120c4d11afb04c76cc994269d6c2076e3da6cf",
+  "homepage": "https://github.com/prem2k17/expressjs-starter#readme",
   "keywords": [
     "Expressjs",
     "sample",
@@ -19,13 +72,24 @@
     "configuration",
     "example"
   ],
-  "author": "PREMKUMAR M",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/prem2k17/expressjs-starter/issues"
+  "main": "server.js",
+  "maintainers": [
+    {
+      "name": "prem2k17",
+      "email": "mpremkumardpk@gmail.com"
+    }
+  ],
+  "name": "expressjs-starter",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prem2k17/expressjs-starter.git"
   },
-  "homepage": "https://github.com/prem2k17/expressjs-starter#readme",
-  "devDependencies": {
-    "express": "^4.15.3"
-  }
+  "scripts": {
+    "start": "node server.js",
+    "test": "test"
+  },
+  "version": "2.0.1"
 }
